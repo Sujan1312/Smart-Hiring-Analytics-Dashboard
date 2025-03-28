@@ -73,7 +73,11 @@ Example screenshots:
 ---
 
 ## 🖼️ Dashboard Preview  
-[![Dashboard Screenshot](images/dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiEXAMPLE123...)
+![image](https://github.com/user-attachments/assets/368e6552-15ad-4886-92e0-af038077464e)
+
+![image](https://github.com/user-attachments/assets/4189cac2-0f2f-4efb-bcbc-79b004cbd478)
+
+![image](https://github.com/user-attachments/assets/8a070cd3-25ec-48e8-b983-b5a823961c72)
 
 ---
 
@@ -81,13 +85,7 @@ Example screenshots:
 ```
 smart-hiring-analytics-dashboard/  
 ├── dataset_salary_cyber.csv         # Cybersecurity job and salary data  
-├── SmartHiringDashboard.pbix        # Power BI dashboard file  
-├── images/                          # Folder containing dashboard screenshots  
-│   ├── salary-analysis.png  
-│   ├── remote-trend.png  
-│   ├── top-skills.png  
-│   ├── job-types.png  
-│   └── dashboard-preview.png  
+├── SmartHiringDashboard.pbix        # Power BI dashboard file   
 ├── README.md                        # Project README file  
 └── LICENSE                          # License information (optional)
 ```
