@@ -54,7 +54,7 @@ Smart-Hiring-Analytics-Dashboard/
 ---
 
 ## 🧾 5. Data Source
-- Original Dataset: Cybersecurity Salary Dataset (Kaggle)
+- **Original Dataset**: [Cybersecurity Salary Dataset (Kaggle)](https://www.kaggle.com/datasets/dannyrevaldo/salary-cyber-security-jobs)
 - Format: CSV
 - Preprocessing: Cleaning, deduplication, mapping of abbreviations (e.g., job roles, company size)
 - Validation: Handled in Power BI and Excel
