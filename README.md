@@ -146,6 +146,8 @@ Includes:
 - Functional demo
 - Highlighting how requirements are met
 - Explained filters and decision points
+  
+👉 [Watch the video](https://drive.google.com/file/d/1Jsa8RzmN7aRRRrh_7a_NrNG5FPhrsvW6/view?usp=drive_link)
 
 ---
 
