@@ -27,11 +27,11 @@ The Smart Hiring Analytics Dashboard is a comprehensive Power BI-based applicati
 ## 🧑‍🤝‍🧑 3. Team Members and Contributions
 | Name | Role | Contribution |
 |------|------|--------------|
-| | Project Lead | Dashboard Design, Data Integration, Traceability Matrix |
-| Sujan M | Data Analyst | Skill and Certification Mapping, Data Cleaning |
-| Nikhil Reddy | Visualization Specialist | Map and Salary Visualizations, UX Feedback |
-| Sai Teja | Data Engineer | DAX Calculations, CSV Preprocessing |
-| Pooja Sharma | Documentation Lead | README, PPT, Traceability Validation |
+| |  Sai Krishna Teja| Dashboard Design, Data Integration, Traceability Matrix |
+| Sujan Buddha  | Data Analyst | Skill and Certification Mapping, Data Cleaning |
+|  Pavan Kumar | Visualization Specialist | Map and Salary Visualizations, UX Feedback |
+| Vikas Reddy  | Data Engineer | DAX Calculations, CSV Preprocessing |
+| Suneel Kumar  | Documentation Lead | README, PPT, Traceability Validation |
 
 ---
 
